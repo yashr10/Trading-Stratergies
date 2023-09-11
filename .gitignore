@@ -1,0 +1,9 @@
+/.ipynb_checkpoints
+MLP.ipynb
+*.docx
+*.doc
+__pycache__
+/Codes
+/others
+/models
+/notebooks/catboost_info
